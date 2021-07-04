@@ -14,6 +14,8 @@ h3 {
 }
 #bg-img {
   background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+  margin-bottom: 100px;
 }
 .p1 {
   font-weight: 500;
@@ -40,4 +42,20 @@ section {
 .cut-width img {
   width: 70%;
   margin-left: 100px;
+  margin-top: 20px;
+}
+#sec-2 {
+  margin-top: 50px;
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  margin-bottom: 50px;
+}
+.size {
+  font-size: 15px;
+  color: white;
+}
+.bord2 {
+  border: 5px solid rgb(190, 63, 63);
+  border-radius: 5px;
 }
