@@ -1,0 +1,43 @@
+body {
+  font-family: "Bona Nova", serif;
+  margin: 0%;
+}
+h1 {
+  font-size: 60px;
+}
+span {
+  color: purple;
+}
+h3 {
+  border: 5px solid gray;
+  margin-right: 50%;
+}
+#bg-img {
+  background-image: url(images/top-banner.png);
+}
+.p1 {
+  font-weight: 500;
+  padding-right: 20px;
+}
+.link {
+  text-decoration: none;
+
+  color: white;
+  padding: 10px 20px;
+  font-size: 10px;
+  font-weight: bold;
+  border-radius: 5%;
+  background-image: linear-gradient(orange, tomato);
+}
+
+section {
+  display: flex;
+}
+.cut-width {
+  width: 50%;
+  padding-left: 2%;
+}
+.cut-width img {
+  width: 70%;
+  margin-left: 100px;
+}
